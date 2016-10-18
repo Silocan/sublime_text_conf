@@ -10,3 +10,4 @@ Liste de mes plugins :
 - [Nexus Theme](https://github.com/EleazarCrusader/nexus-theme) 
 - [Codeivate](https://github.com/codeivate/codeivate-st)
 - [RegReplace](https://github.com/facelessuser/RegReplace)
+- [SQL Beautifier](https://github.com/zsong/SqlBeautifier)
